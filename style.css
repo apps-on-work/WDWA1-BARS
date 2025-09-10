@@ -51,3 +51,7 @@ button:active {
   transform: translateY(10px);
   transition: 100ms;
 }
+
+html {
+  scroll-behavior: smooth;
+}
